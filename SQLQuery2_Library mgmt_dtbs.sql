@@ -316,5 +316,3 @@ SELECT * FROM tbl_library_branch
 SELECT * FROM tbl_borrower
 SELECT * FROM tbl_book_copies
 SELECT * FROM tbl_book_loans
-
-
